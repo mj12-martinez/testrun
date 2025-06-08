@@ -1,0 +1,24 @@
+.hero {
+  background: url('https://upload.wikimedia.org/wikipedia/commons/7/77/Angkor_Wat_temple.jpg') no-repeat center center;
+  background-size: cover;
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-text {
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+}
+
+.section-title {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+footer {
+  background-color: #222;
+  color: white;
+  padding: 20px 0;
+}
